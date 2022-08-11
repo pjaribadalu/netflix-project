@@ -1,4 +1,6 @@
 # code to create EC2
+# chnage type to t3.xlarge
+# use Windows instead of Linux
 
 provider "aws" {
   region = "us-east-2"
